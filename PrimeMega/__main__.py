@@ -86,7 +86,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 *Hello {} !*
 ────────────────────────
-I'm a powerful group management bot built to help you manage your group!
+I'm a powerful group management bot build to help you manage your group!
 ────────────────────
 Hit the /help or tap on button to se available command on me.
 """
@@ -114,7 +114,7 @@ buttons = [
 HELP_STRINGS = """
 Click on the button bellow to get description about specifics command."""
 
-PRIME_IMG = "https://telegra.ph/file/b9fa4e1360d0a872a3cd5.jpg"
+PRIME_IMG = "https://telegra.ph/file/9346deb7942bf572158d6.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project by contacting @Bukan_guudlooking \
